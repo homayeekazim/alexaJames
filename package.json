@@ -1,0 +1,16 @@
+{
+  "name": "askjames",
+  "version": "1.0.0",
+  "description": "Ask James at airhome anything staying at airhome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "author": "kazim homayee",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.2",
+    "firebase-admin": "^4.0.4",
+    "request-promise": "^2.0.0"
+  }
+}

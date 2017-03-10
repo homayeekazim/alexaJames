@@ -1,0 +1,15 @@
+{
+  "players": [
+    {
+      "roomName": "LivingRoom",
+      "volume": 30
+    }
+  ],
+  "playMode": {
+    "shuffle": true,
+    "repeat": "all",
+    "crossfade": false
+  },
+  "pauseOthers": false,
+  "favorite": "My example favorite"
+}
